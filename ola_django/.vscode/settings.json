@@ -2,5 +2,5 @@
     "emmet.includeLanguages": {
         "django-html": "html"
     },
-    "explorer.compactFolders": false
+    "explorer.compactFolders": false,
 }
